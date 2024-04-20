@@ -10,7 +10,6 @@ Output: "apbqcr"
 Explanation: The merged string will be merged as so:
 
 word1:  a   b   c
-
 word2:    p   q   r
 
 merged: a p b q c r
